@@ -1,0 +1,27 @@
+{
+  "name": "hubot-restaurants",
+  "version": "0.1.0",
+  "description": "A hubot script to help you choose from your favorite restaurants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mentalspike/hubot-restaurants.git"
+  },
+  "keywords": [
+    "hubot-scripts",
+    "restaurant",
+    "restaurants"
+  ],
+  "author": "mentalspike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mentalspike/hubot-restaurants/issues"
+  },
+  "homepage": "https://github.com/mentalspike/hubot-restaurants#readme",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
